@@ -1,0 +1,51 @@
+FUSELAGE: 
+L = 913.25
+Front end length: 150
+
+Back top angle: 11 
+Back top length 1700
+
+Back Bottom Angle: 10
+Back Bottom Length 1400
+
+W-Root
+L: 804.29
+Scale Factor:0.88069
+
+W-2
+L: 663.74
+Scale Factor:0.72679
+
+W-3
+L: 413.22
+Scale factor:0.45247
+
+
+TAIL SCALE
+TOP:
+Distance: 300
+L1: 60 angle 90
+L2:700 angle 3.25
+Bottom: 
+Scale: 2.33756186463
+Distance: 701.26855939
+L1:140.253711878
+L2: 1636.29330524
+
+Elevator
+Base:
+Distance: 325
+L1:58 angle 55 deg
+L2:420 angle 10 deg
+
+E1
+Distance: 317
+Scale:0.97538461538
+L1:56.5723076923
+L2:409.661538462
+
+E2:
+Distance: 164
+Scale:0.50461538461
+L1:29.2676923077
+L2:211.938461538
