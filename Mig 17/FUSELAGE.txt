@@ -49,3 +49,13 @@ Distance: 164
 Scale:0.50461538461
 L1:29.2676923077
 L2:211.938461538
+
+NOSE SCALING
+Top: 680
+Front spline: 235
+Back spline: 675
+
+MID: 655
+Scale: 0.963235
+Front: 226.36
+Back: 650.18
